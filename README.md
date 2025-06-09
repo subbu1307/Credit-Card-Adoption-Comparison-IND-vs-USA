@@ -1,7 +1,5 @@
 # 💳 Credit Card Adoption and Usage: Insights from US & India:
 
-## 📊 Tableau Dashboard Link: 
-https://public.tableau.com/views/CreditCardAdoptionUsageInsightsfromUSIndia/Team_4_Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ## 📚 About the Project
 
@@ -47,6 +45,8 @@ This project explores credit card adoption and spending patterns in the **United
 - Targeted products (e.g., for 30–44 age group, retirees) and **seasonal offers** can boost credit engagement.
 - **Financial literacy** and **tailored products** can support credit growth in low-income or developing regions.
 
+## 📊 Tableau Dashboard
+https://public.tableau.com/views/CreditCardAdoptionUsageInsightsfromUSIndia/Team_4_Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ## 📎 Appendix
 

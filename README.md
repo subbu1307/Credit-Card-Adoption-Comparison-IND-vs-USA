@@ -1,4 +1,4 @@
-# 💳 Credit Card Adoption and Usage: Insights from US & India:
+# 💳 Credit Card Adoption & Usage: Insights from US & India:
 
 
 ## 📚 About the Project
